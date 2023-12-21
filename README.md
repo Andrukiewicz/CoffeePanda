@@ -4,7 +4,7 @@ Cafe website design idea using Next.js & Framer motion
 
 ## Demo
 
-Hosted demo: [CoffeePanda](https://trollo-self.vercel.app/)
+Hosted demo: [CoffeePanda](https://coffeepanda.vercel.app/)
 
 ## Features
 
@@ -16,4 +16,4 @@ Hosted demo: [CoffeePanda](https://trollo-self.vercel.app/)
 ## Links to all my apps
 
 - [Trollo](https://trollo-self.vercel.app/) - Trello like kanban app
-- [CoffeePanda](#) - Cafe website design
+- [CoffeePanda](https://coffeepanda.vercel.app/) - Cafe website design
