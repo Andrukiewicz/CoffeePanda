@@ -48,7 +48,7 @@ export default function Navbar() {
               </li>
               <li>
                 <Link href="#">
-                  <button className="rounded-full bg-orange-900 px-4 py-2 uppercase text-white">
+                  <button className="rounded-full bg-orange-900 px-4 py-2 uppercase text-white transition-colors hover:bg-black">
                     Shop online
                   </button>
                 </Link>
