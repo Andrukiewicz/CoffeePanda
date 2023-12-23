@@ -13,7 +13,6 @@ Hosted demo: [CoffeePanda](https://coffeepanda.vercel.app/)
 - Self made logo
 - Ai generated images
 
-## Links to all my apps
+## Links to my repos
 
-- [Trollo](https://trollo-self.vercel.app/) - Trello like kanban app
-- [CoffeePanda](https://coffeepanda.vercel.app/) - Cafe website design
+- [AndrukiewiczDev Github](https://github.com/Andrukiewicz) < here!
